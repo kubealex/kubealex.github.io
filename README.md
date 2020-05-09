@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Page
 
-You can use the [editor on GitHub](https://github.com/kubealex/kubealex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Alessandro, a DevOps enthusiast actually fell in love with Kubernetes and Openshift.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In my repositories, you will find stuff basically related to automation, CI/CD, Ansible, Golang stuff for studying and building awesome pieces of code.
 
 ### Markdown
 
